@@ -3,7 +3,7 @@
    
     /*
      * Plugin Name: Thanks-for-Reading
-	 Plugin URI: https://drive.google.com/open?id=0B2k1dzVFzrhqZ3FYMXU1MjR3NHc&authuser=0
+	 Plugin URI:http://www.mediafire.com/download/jwnknyz4r4cj0ov/Thanks-for-reading.zip
 	 Description: this plugin add some line at the end of post like say thank you for reading my post.
 	Version:1.0
 	Author: Meskat Jahan
