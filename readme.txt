@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Thanks for reading is an awesome and super lightweight plugin for your wordpress website. By installing this plugin we can save your time. Very easy to install.
+Thanks for reading is an awesome and super lightweight plugin for your wordpress website. By installing this plugin we can save your time. 
 
 == Description ==
 
